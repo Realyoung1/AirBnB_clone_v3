@@ -2,7 +2,6 @@
 """
 this is to initialize the models packagesde
 """
-
 from os import getenv
 
 
